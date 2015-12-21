@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1447944101 source:d:\вуз\сем 5\s++\l3\p1\main.cpp
+	<iostream>
+	"sdt.h"
+
+1443118488 d:\вуз\сем 5\s++\l3\p1\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1449168164 source:g:\5 сем\си\laba3\p1\main.cpp
+	<iostream>
+	"sdt.h"
+
+1443118488 g:\5 сем\си\laba3\p1\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
